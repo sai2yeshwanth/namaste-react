@@ -1,5 +1,5 @@
 # namaste-react
-Learn React 
+Learn React https://courses.namastedev.com/learn
 
 # learn about parcel 
  https://parceljs.org/
